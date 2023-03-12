@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!--
+ *
+ * @author bouvier et delagrange
+-->
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://Projet_Tux.fr/AlexLeo/plateau"
+           targetNamespace="http://Projet_Tux.fr/AlexLeo/plateau"
+           elementFormDefault="qualified">
+           
+    <xs:element name="plateau" type="Plateau"/>
+    <xs:complexType name="Plateau">
+        <xs:sequence>
+            <xs:element name="dimensions" type="Dimensions"/>
+            <xs:element name="mapping" type="Mapping"/>
+            <xs:element name="pion" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Dimensions">
+        <xs:sequence>
+            <xs:element name="height" type="xs:nonNegativeInteger"/>
+            <xs:element name="width" type="xs:nonNegativeInteger"/>
+            <xs:element name="depth" type="xs:nonNegativeInteger"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Mapping">
+        <xs:sequence>
+            <xs:element name="textureBottom" type="xs:string"/>
+            <xs:element name="textureEast" type="xs:string"/>
+            <xs:element name="textureWest" type="xs:string"/>
+            <xs:element name="textureNorth" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ *
+ * @author bouvier et delagrange
+--><dictionnaire xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="http://myGame/tux ../xsd/dico.xsd">
+    
+    <niveau numero="1">
+        <mot>deux</mot>
+        <mot>oui</mot>
+        <mot>soeur</mot>
+        <mot>jouet</mot>
+        <mot>papa</mot>
+        <mot>sac</mot>
+        <mot>non</mot>
+        <mot>mer</mot>
+        <mot>lac</mot>
+        <mot>amis</mot>
+    </niveau>
+
+    <niveau numero="2">
+        <mot>trois</mot>
+        <mot>maths</mot>
+        <mot>livre</mot>
+        <mot>porte</mot>
+        <mot>fille</mot>
+        <mot>garcon</mot>
+        <mot>arbre</mot>
+        <mot>ecole</mot>
+        <mot>route</mot>
+        <mot>manger</mot>
+        <mot>matin</mot>  
+</niveau>
+
+    <niveau numero="3">
+        <mot>ascenceur</mot>
+        <mot>maison</mot>
+        <mot>voiture</mot>
+        <mot>fenetre</mot>
+        <mot>poubelle</mot>
+        <mot>grillage</mot>
+        <mot>chemin</mot>
+        <mot>batiment</mot>
+        <mot>legumes</mot>
+        <mot>descendre</mot>
+        <mot>escalier</mot>
+        <mot>appareil</mot>
+</niveau>
+    
+    <niveau numero="4">
+        <mot>serendipite</mot>
+        <mot>anniversaire</mot>
+        <mot>coloriage</mot>
+        <mot>vacances</mot>
+        <mot>ambulance</mot>
+        <mot>rhinocéros</mot>
+        <mot>banquette</mot>
+        <mot>escabeau</mot>
+        <mot>etudiant</mot>
+        <mot>incendie</mot>
+        <mot>extincteur</mot>
+</niveau>
+    
+    <niveau numero="5">
+        <mot>halieutique</mot>
+        <mot>xylophone</mot>
+        <mot>jugulaire</mot>
+        <mot>chromosome</mot>
+        <mot>artistiquement</mot>
+        <mot>terrorisme</mot>
+        <mot>escalator</mot>
+        <mot>ventouse</mot>
+        <mot>telescope</mot>
+        <mot>cyclone</mot>
+        <mot>photocopieuse</mot>
+    </niveau>
+</dictionnaire>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<!--
+ *
+ * @author bouvier et delagrange
+-->
+
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:tux="http://myGame/tux"
+           targetNamespace="http://myGame/tux"
+           elementFormDefault="qualified">
+    
+    
+    <xs:element name="dictionnaire" type="tux:Dictionnaire"/>
+    <xs:complexType name="Dictionnaire">
+        <xs:sequence>
+            <xs:element name="niveau" type="tux:Niveau"/>
+        </xs:sequence>
+        
+    </xs:complexType>
+    <xs:complexType name="Niveau">
+        <xs:sequence>
+            <xs:element name="mot" type="tux:Mot"/>  
+        </xs:sequence>
+        <xs:attribute name="numero" type="tux:Numero"/>
+                      
+    </xs:complexType>
+    <xs:simpleType name="Mot">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="3"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Numero">
+        <xs:restriction base="xs:int">
+            <xs:minInclusive value="1"/>
+            <xs:maxInclusive value="5"/>
+        </xs:restriction>
+    </xs:simpleType>
+           
+</xs:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/tux ../xsd/profil.xsd">
+    <nom>jule</nom>
+    <avatar>../images/jafar.jpg</avatar>
+    <anniversaire>2001-08-24</anniversaire>
+    <parties>
+        <partie date="2022-12-06">
+            <temps>14</temps>
+            <niveau numero="4">
+                <mot>etudiant</mot>
+            </niveau>
+        </partie>
+    <partie date="2022-12-06">
+            <temps>18</temps>
+            <niveau numero="4">
+                <mot>anniversaire</mot>
+            </niveau>
+        </partie>
+    <partie date="2022-12-06">
+            <temps>7</temps>
+            <niveau numero="2">
+                <mot>manger</mot>
+            </niveau>
+        </partie>
+    <partie date="2022-12-06" trouvé="0">
+            <temps>0</temps>
+            <niveau numero="2">
+                <mot>manger</mot>
+            </niveau>
+        </partie>
+    </parties>
+</profil>

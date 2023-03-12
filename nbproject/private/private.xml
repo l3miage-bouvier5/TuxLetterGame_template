@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/xslt/profil.xsl</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/EditeurDico.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/CSS/style-profil.css</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Jeu.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/CSS/style-hiscores.css</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Partie.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/images/jafar.jpg</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/EnvTextMap.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/EnvText.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/xml/plateau.xml</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Dico.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/html/hiscores.html</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/xml/dico.xml</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/XSD/hiscores.xsd</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/LanceurDeJeu.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/FileUtil.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/html/dico.html</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/xml/profil-test.xml</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/XSD/dico.xsd</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/images/joker.jpg</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Room.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/URLUtil.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Letter.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/XSD/plateau.xsd</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/xslt/dico.xsl</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/images/dark-vador.jpg</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/JeuDevineLeMotOrdre.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Profil.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Chronometre.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/BrowserUtil.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/XSD/profil.xsd</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/Tux.java</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/data/xslt/hiscores.xsl</file>
+            <file>file:/C:/Users/bouvi/OneDrive/Cours/L3/S5/XML/Projet_XML/TuxLetterGame_template/TuxLetterGame_template/src/game/XMLUtil.java</file>
+        </group>
+    </open-files>
+</project-private>

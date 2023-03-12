@@ -1,0 +1,95 @@
+/**
+ *
+ * @author bouvier et delagrange
+ */
+
+
+html {background-color: #6E7889;
+    font-family: tahoma, sans-serif;
+    color: #E6EBEE;}
+
+body {background-color: #6E7889;
+     font-family: tahoma, sans-serif;
+     color: #E6EBEE;
+     padding: 30px;}
+
+#card {background-color: #393B45;
+      height: auto;
+      width: 90%;
+      margin: 10vh auto;
+      border-radius: 25px;
+      padding-bottom: 1px;
+      box-shadow: 2px 2px 5px #4069E2;}
+
+h1 {color: white;
+   text-align: center;
+   width: 100%;
+   background-color: #E6EBEE;
+   border-radius: 25px 25px 0 0;
+   color: #393B45;
+   padding: 30px 0;
+   font-weight: 800;
+   margin: 0;}
+
+img{display: block;
+    position: relative;
+    background-color: #E6EBEE;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 30px;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: 1px 1px 5px #4069E2;}
+
+ul{
+    padding: 25%;
+    justify-content: center;
+    text-align: justify;
+}
+
+table{
+   background-color: transparent;
+   border: 3px solid black;
+   border-radius: 7px;
+   width: 70%;
+   text-align:center;
+   margin: 30px auto;
+   align-content: center;
+   box-shadow:  15px 15px 30px #6b18e9,
+             -15px -15px 30px #771aff;
+}
+td{
+    border-bottom: 1px solid black;
+}
+
+#colPseudo{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#titrePseudo{
+    border-left: 1px solid black;
+    border-right: 1px solid black;}
+
+#colAvatar{
+    border-right: 1px solid black;
+}
+
+#pseudo{
+    font-size: 35px;
+    color: lightblue;
+}
+
+#titre{
+    font-size: 35px;
+    color: lightblue;
+    font: bold;
+    border-bottom: 1px solid black;
+}
+
+#score{
+    font-size: 35px;
+    font: bold;
+    color:#771aff;
+}

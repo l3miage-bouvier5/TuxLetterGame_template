@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hiscores xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/tux ../xsd/hiscores.xsd">
+    <partie date="2022-12-06" score="364">
+        <nom>julien</nom>
+        <avatar>../images/venom.jpg</avatar>
+        <mot>ventouse</mot>
+    </partie>
+<partie date="2022-12-06" score="230">
+        <nom>boyb</nom>
+        <mot>coloriage</mot>
+        <avatar>../images/jafar.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="350">
+        <nom>bob</nom>
+        <mot>telescope</mot>
+        <avatar>../images/walter-white.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="230">
+        <nom>jule</nom>
+        <mot>etudiant</mot>
+        <avatar>../images/jafar.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="210">
+        <nom>jule</nom>
+        <mot>anniversaire</mot>
+        <avatar>../images/jafar.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="106">
+        <nom>jule</nom>
+        <mot>manger</mot>
+        <avatar>../images/jafar.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="110">
+        <nom>bob</nom>
+        <mot>matin</mot>
+        <avatar>../images/walter-white.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="200">
+        <nom>isfs</nom>
+        <mot>serendipite</mot>
+        <avatar>../images/jafar.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="196">
+        <nom>bob</nom>
+        <mot>appareil</mot>
+        <avatar>../images/walter-white.jpg</avatar>
+    </partie>
+<partie date="2022-12-06" score="180">
+        <nom>fh</nom>
+        <mot>maison</mot>
+        <avatar>../images/joker.jpg</avatar>
+    </partie>
+</hiscores>

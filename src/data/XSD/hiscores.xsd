@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<!-- Ce fichier XML Schema a pour but de structurer le fichier hiscores.xml
+     qui va afficher les meilleurs scores parmis tous les joueurs.
+     
+     auteurs : Bouvier Léo Delagrange Alex
+-->
+
+
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://myGame/tux"
+           xmlns:tux="http://myGame/tux"
+           elementFormDefault="qualified">
+    
+    <xs:element name="hiscores" type="tux:Hiscores"/>
+    <xs:complexType name="Hiscores">
+        <xs:sequence>
+            <xs:element name="partie" type="tux:Partie" maxOccurs = "unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Partie">
+        <xs:sequence>
+            <xs:element name="nom" type ="xs:string"/>
+            <xs:element name="avatar" type="xs:string"/>
+            <xs:element name="mot" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="score" type="xs:int"/>
+        <xs:attribute name="date" type="xs:string"/>   
+    </xs:complexType>
+
+    
+</xs:schema>
